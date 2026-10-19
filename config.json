@@ -1,0 +1,114 @@
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/Interstitial_1.png",
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Dive into colorful splash action and master every exciting challenge!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/Interstitial_2.png",
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Jump into the splash adventure and take on new colorful challenges!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/Interstitial_3.png",
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Play, splash and discover exciting new levels and challenges!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_1",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "A colorful splash adventure full of exciting challenges awaits!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_2",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Enter Official Splash Game and enjoy fast colorful action!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/BannerAd_1.png",
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Start your colorful splash adventure!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/BannerAd_2.png",
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Splash, play and take on exciting challenges!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/BannerAd_3.png",
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Dive into the fun and enjoy Official Splash Game!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    },
+    {
+      "id": "banner_text_1",
+      "format": "text",
+      "placements": ["banner"],
+      "icon_url": "https://limoorkastrk0-spec.github.io/bibasssplesh/icon.png",
+      "title": "Official Splаsh Game",
+      "body": "Colorful splash action and exciting fun are waiting!",
+      "cta_text": "Install",
+      "bundle_id": "com.petalwave.koirippleconservatory",
+      "weight": 1
+    }
+  ]
+}
